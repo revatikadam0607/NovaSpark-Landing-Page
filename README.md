@@ -64,55 +64,6 @@ NovaSpark/
 
 ---
 
-## 🚀 Getting Started
-
-### Clone the repository
-
-```bash
-git clone https://github.com/your-username/novaspark.git
-```
-
-### Open the project
-
-Simply open `index.html` in your browser.
-
----
-
-## 📸 Preview
-
-<img width="100%" alt="NovaSpark Preview" src="assets/preview.png">
-
-> Replace `assets/preview.png` with your actual homepage screenshot.
-
----
-
-## 🌐 Live Website
-
-🔗 https://codsoft-landing-page-task2.netlify.app/
-
----
-
-## 💡 Future Improvements
-
-* Theme Toggle
-* Pricing Section
-* FAQ Section
-* Newsletter Subscription
-* More Interactive Animations
-* Backend Contact Form
-
----
-
-## 🤝 Contributing
-
-Contributions, suggestions, and improvements are welcome.
-
-1. Fork the repository.
-2. Create a new branch.
-3. Commit your changes.
-4. Open a Pull Request.
-
----
 
 ## ⭐ Show Your Support
 
@@ -120,11 +71,6 @@ If you found this project helpful, consider giving it a ⭐ on GitHub.
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the MIT License.
-
----
 
 <div align="center">
 
